@@ -2,7 +2,7 @@
 
 # agile for beginners
 
-![agile for beginners](SDLC/agile.jpg)
+![agile for beginners](SDLC/agile.png)
 
 # git 
 
